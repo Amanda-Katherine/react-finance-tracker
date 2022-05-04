@@ -1,3 +1,7 @@
+## Finance Tracker - Udemy Tutorial 
+
+Doing the Udemy tutorial to teach myself React for future projects at work. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
